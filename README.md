@@ -18,6 +18,26 @@ De pagina moet werken in de meest recente Google Chrome (maar zie ook pluspunten
 
 Om van start te gaan mag je de repository forken naar je eigen gebruiker en daarnaar comitten. We bekijken dan straks samen je code op die Github.
 
+Voor de iconen kan je Font-Awesome gebruiken voor de play/stop en thumbs-up/thumbs-down. Voor de andere tekst gebruiken we Cervo:
+
+```css
+@font-face {
+  font-family: "Cervo-Medium";
+  src: url('https://fonts.qmusic.be/cervo-medium-webfont.eot');
+  src: url('https://fonts.qmusic.be/cervo-medium-webfont.eot?#iefix') format("embedded-opentype"), url('https://fonts.qmusic.be/cervo-medium-webfont.woff2') format("woff2"), url('https://fonts.qmusic.be/cervo-medium-webfont.woff') format("woff"), url('https://fonts.qmusic.be/cervo-medium-webfont.ttf') format("truetype"), url('https://fonts.qmusic.be/cervo-medium-webfont.svg') format("svg");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Cervo-Light";
+  src: url('https://fonts.qmusic.be/cervo-light-webfont.eot');
+  src: url('https://fonts.qmusic.be/cervo-light-webfont.eot?#iefix') format("embedded-opentype"), url('https://fonts.qmusic.be/cervo-light-webfont.woff2') format("woff2"), url('https://fonts.qmusic.be/cervo-light-webfont.woff') format("woff"), url('https://fonts.qmusic.be/cervo-light-webfont.ttf') format("truetype"), url('https://fonts.qmusic.be/cervo-light-webfont.svg') format("svg");
+  font-style: normal;
+  font-weight: 600;
+}
+```
+
 ## API
 
 Alle documentatie voor de Qmusic API vind je op https://documenter.getpostman.com/view/3739482/RVfwhARZ
