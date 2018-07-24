@@ -50,7 +50,7 @@ De detail van de **audio-stream** vind je in de `/app` call.
 
 Authenticatie moet je in de pagina niet voorzien, je mag uitgaan van volgende Gigya parameters:
 
-```
+```js
 {uid: "_guid_72jPGiBslB8uD5F68uCthQ==", uid_signature: "hsJmUVcQAvMpRe4fAoby2kN2aX4=", signature_date: "1532353073"}
 ```
 
