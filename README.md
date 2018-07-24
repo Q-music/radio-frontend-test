@@ -16,7 +16,7 @@ We willen dit zien als HTML pagina die we als iframe kunnen embedden. Onze techn
 
 De pagina moet werken in de meest recente Google Chrome (maar zie ook pluspunten).
 
-Om van start te gaan mag je de repository forken naar je eigen gebruiker en daarnaar comitten. We bekijken dan straks samen je code op die Github.
+Om van start te gaan mag je de repository clonen naar je computer en een nieuwe branch aanmaken, op die branch mag je alles comitten en pushen naar Github. We bekijken dan straks samen je code!
 
 Voor de iconen kan je Font-Awesome gebruiken voor de play/stop en thumbs-up/thumbs-down. Voor de andere tekst gebruiken we Cervo:
 
