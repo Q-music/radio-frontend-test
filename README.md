@@ -2,8 +2,9 @@
 
 Voor Qmusic en Joe willen we graag een vereenvoudigde versie van de audio-player, waar je het huidig spelende nummer te zien krijgt (Artiestnaam, Titel en Hoesje) dat live update, en dat je daarop duimpjes kan geven. Daarnaast staat er ook een Play / Stop knop die de AAC/MP3 stream van het station start/stopt.
 
-Voorbeeld van hoe het eruit zou kunnen zien:
-![Example](http://www.defv.be/u/You_make_us_Q_-_Qmusic_2018-07-23_15-20-45.jpg)
+Hoe het eruit moet zien:
+![Example](http://www.defv.be/u/Nu.png)
+(meer in detail in Invision)
 
 ## Technische requirements
 
